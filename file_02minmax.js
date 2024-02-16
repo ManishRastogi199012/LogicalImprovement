@@ -20,7 +20,8 @@ for(let i= 0;i<a.length-1;i++){
     // sumOfElement = sumOfElement+a[i]
 }
 c= Math.max(...a)
-c= Math.max(...a)
+c= Math.min(...a)
+
 console.log(c)
 // console.log(maxNumber)
 // console.log(sumOfElement)
